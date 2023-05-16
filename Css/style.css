@@ -290,7 +290,7 @@ section .left-side p {
 /* Start Styling Service */
 .services {
     margin: 200px 0;
-    background-image: url(/imgs/subscribe_bg.jpg);
+    background-image: url(../imgs/subscribe_bg.jpg);
     background-repeat: repeat;
     background-position: top;
     background-size: cover;
